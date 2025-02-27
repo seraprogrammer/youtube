@@ -1,0 +1,1294 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "runs": [
+                {
+                    "text": "Declarative vs. Imperative - JavaScript Tutorial"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Declarative vs. Imperative - JavaScript Tutorial by ColorCode 6,491 views 1 month ago 25 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=dYqwdwTsZVY",
+        "thumbnail": "https://i.ytimg.com/vi/dYqwdwTsZVY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5JebW8IiVWTaf7Xfh9RGmn6-ALA"
+    },
+    {
+        "id": 2,
+        "title": {
+            "runs": [
+                {
+                    "text": "JavaScript Event Loop -- Visualized!"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "JavaScript Event Loop -- Visualized! by ColorCode 31,915 views 6 months ago 29 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=okkHnAo8GmE",
+        "thumbnail": "https://i.ytimg.com/vi/okkHnAo8GmE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9O58oORNBKgnazLsZmo-zB35IxA"
+    },
+    {
+        "id": 3,
+        "title": {
+            "runs": [
+                {
+                    "text": "7 Benefits of First-Class Functions - JavaScript Tutorial"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "7 Benefits of First-Class Functions - JavaScript Tutorial by ColorCode 10,550 views 9 months ago 25 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=nGDPm86Btlw",
+        "thumbnail": "https://i.ytimg.com/vi/nGDPm86Btlw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7qlvnY45AODb4d4r34Qo2BnMolg"
+    },
+    {
+        "id": 4,
+        "title": {
+            "runs": [
+                {
+                    "text": "JavaScript Pure Functions - Tutorial for beginners"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "JavaScript Pure Functions - Tutorial for beginners by ColorCode 16,900 views 1 year ago 19 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=BceIT1Lke-E",
+        "thumbnail": "https://i.ytimg.com/vi/BceIT1Lke-E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfqXrS7KqmWyja9h_rDBQJLlrf4w"
+    },
+    {
+        "id": 5,
+        "title": {
+            "runs": [
+                {
+                    "text": "DOM API - JavaScript Tutorial for beginners"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "DOM API - JavaScript Tutorial for beginners by ColorCode 43,369 views 1 year ago 42 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=wbQLEXg_urE",
+        "thumbnail": "https://i.ytimg.com/vi/wbQLEXg_urE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAG0NF1TJkUBWZ8URgIILL8PaUzQ"
+    },
+    {
+        "id": 6,
+        "title": {
+            "runs": [
+                {
+                    "text": "Fetch API - JavaScript Tutorial for beginners"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Fetch API - JavaScript Tutorial for beginners by ColorCode 123,342 views 1 year ago 30 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=ubw2hdQIl4E",
+        "thumbnail": "https://i.ytimg.com/vi/ubw2hdQIl4E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzFIDxHfJOwgdHZ4wdqk42zXrpcw"
+    },
+    {
+        "id": 7,
+        "title": {
+            "runs": [
+                {
+                    "text": "Async Await vs. Promises - JavaScript Tutorial for beginners"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Async Await vs. Promises - JavaScript Tutorial for beginners by ColorCode 85,926 views 2 years ago 24 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=spvYqO_Kp9Q",
+        "thumbnail": "https://i.ytimg.com/vi/spvYqO_Kp9Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIPCjFf3Xng6q5wQGiUJ-Qdp02tA"
+    },
+    {
+        "id": 8,
+        "title": {
+            "runs": [
+                {
+                    "text": "JavaScript Promises  -- Tutorial for Beginners"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "JavaScript Promises  -- Tutorial for Beginners by ColorCode 144,626 views 2 years ago 37 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=TnhCX0KkPqs",
+        "thumbnail": "https://i.ytimg.com/vi/TnhCX0KkPqs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjhjFW81zrtV_nU26TZwCJtx_tSw"
+    },
+    {
+        "id": 9,
+        "title": {
+            "runs": [
+                {
+                    "text": "Async JavaScript & Callback Functions -- Tutorial for Beginners"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Async JavaScript & Callback Functions -- Tutorial for Beginners by ColorCode 115,301 views 2 years ago 24 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=QSqc6MMS6Fk",
+        "thumbnail": "https://i.ytimg.com/vi/QSqc6MMS6Fk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqAI5_MU0g52ubYHqIOArMs7mwMQ"
+    },
+    {
+        "id": 10,
+        "title": {
+            "runs": [
+                {
+                    "text": "JavaScript Value vs. Reference (Primitives vs. Objects) -- Tutorial for Beginners"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "JavaScript Value vs. Reference (Primitives vs. Objects) -- Tutorial for Beginners by ColorCode 35,170 views 2 years ago 21 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=r5rYoJFWfN0",
+        "thumbnail": "https://i.ytimg.com/vi/r5rYoJFWfN0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn0SMMmVvom7jdWyvyyudlnxqYug"
+    },
+    {
+        "id": 11,
+        "title": {
+            "runs": [
+                {
+                    "text": "JavaScript Closures Tutorial (Explained in depth)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "JavaScript Closures Tutorial (Explained in depth) by ColorCode 81,823 views 3 years ago 19 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=aHrvi2zTlaU",
+        "thumbnail": "https://i.ytimg.com/vi/aHrvi2zTlaU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_fmWbNcsHnDuSkEm2Q7neLhHypg"
+    },
+    {
+        "id": 12,
+        "title": {
+            "runs": [
+                {
+                    "text": "Higher Order Functions - JavaScript Tutorial"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Higher Order Functions - JavaScript Tutorial by ColorCode 74,858 views 3 years ago 10 minutes, 10 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=0aKZvNNf8BA",
+        "thumbnail": "https://i.ytimg.com/vi/0aKZvNNf8BA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5PirP1qrovhMiUdnEsd80x5N5wQ"
+    },
+    {
+        "id": 13,
+        "title": {
+            "runs": [
+                {
+                    "text": "Arrow Functions JavaScript Tutorial - What NOT to do!!!"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Arrow Functions JavaScript Tutorial - What NOT to do!!! by ColorCode 63,653 views 3 years ago 31 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=ajTvmGxWQF8",
+        "thumbnail": "https://i.ytimg.com/vi/ajTvmGxWQF8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7BG7BkahLfXbBxn3MOGTgmhM3bA"
+    },
+    {
+        "id": 14,
+        "title": {
+            "runs": [
+                {
+                    "text": "What is THIS keyword in JavaScript? - Tutorial for beginners"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "What is THIS keyword in JavaScript? - Tutorial for beginners by ColorCode 81,466 views 3 years ago 26 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=fVXp7ZWjlO4",
+        "thumbnail": "https://i.ytimg.com/vi/fVXp7ZWjlO4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjZ5gEIKjBjPT4H_WpgDA3aXx7ZA"
+    },
+    {
+        "id": 15,
+        "title": {
+            "runs": [
+                {
+                    "text": "Factory Function vs. Constructor vs. Class - JavaScript Tutorial"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Factory Function vs. Constructor vs. Class - JavaScript Tutorial by ColorCode 70,092 views 3 years ago 24 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=fbuyliXlDGI",
+        "thumbnail": "https://i.ytimg.com/vi/fbuyliXlDGI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPPrmnAeVmNqSEkyUN1DlOp_4RlA"
+    },
+    {
+        "id": 16,
+        "title": {
+            "runs": [
+                {
+                    "text": "What is Constructor Function in JavaScript? - JS Tutorial"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "What is Constructor Function in JavaScript? - JS Tutorial by ColorCode 53,529 views 3 years ago 17 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=I37qHG0DxmE",
+        "thumbnail": "https://i.ytimg.com/vi/I37qHG0DxmE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBER5RyzpbKLNmNmY2aOzEXz408PA"
+    },
+    {
+        "id": 17,
+        "title": {
+            "runs": [
+                {
+                    "text": "What is Factory Function in JavaScript - in 1 minute"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "What is Factory Function in JavaScript - in 1 minute by ColorCode 12,809 views 4 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=9cjK1bcLTO8",
+        "thumbnail": "https://i.ytimg.com/vi/9cjK1bcLTO8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbF6r9drnyzZ7K46ZQWgJknqDbBw"
+    },
+    {
+        "id": 18,
+        "title": {
+            "runs": [
+                {
+                    "text": "What is Factory Function in JavaScript? - JS Tutorial"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "What is Factory Function in JavaScript? - JS Tutorial by ColorCode 67,179 views 4 years ago 17 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=lE_79wkP-1U",
+        "thumbnail": "https://i.ytimg.com/vi/lE_79wkP-1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_dpjxsMOBtmS-XZFccC7B19pVtQ"
+    },
+    {
+        "id": 19,
+        "title": {
+            "runs": [
+                {
+                    "text": "JavaScript Prototype Chain (1 minute coding)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "JavaScript Prototype Chain (1 minute coding) by ColorCode 8,111 views 4 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=bsEIwvXoBxE",
+        "thumbnail": "https://i.ytimg.com/vi/bsEIwvXoBxE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw2QDEqpyEpRARSNd0ViRar1Nl1g"
+    },
+    {
+        "id": 20,
+        "title": {
+            "runs": [
+                {
+                    "text": "JavaScript inheritance - What is it and why? (1 minute coding)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "JavaScript inheritance - What is it and why? (1 minute coding) by ColorCode 4,415 views 4 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=90XMNF0JyH0",
+        "thumbnail": "https://i.ytimg.com/vi/90XMNF0JyH0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBiCnrb5ZPafk3Q4pktemSpAo0Sg"
+    },
+    {
+        "id": 21,
+        "title": {
+            "runs": [
+                {
+                    "text": "JavaScript Prototypal inheritance - Tutorial"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "JavaScript Prototypal inheritance - Tutorial by ColorCode 92,390 views 4 years ago 15 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=1UTqFAjYx1k",
+        "thumbnail": "https://i.ytimg.com/vi/1UTqFAjYx1k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIS_RGn0usa4hfzMvmgjSZ4xpStQ"
+    },
+    {
+        "id": 22,
+        "title": {
+            "runs": [
+                {
+                    "text": "Inheritance in JavaScript - Prototypal Inheritance tutorial"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Inheritance in JavaScript - Prototypal Inheritance tutorial by ColorCode 134,336 views 4 years ago 20 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=jnME98ckDbQ",
+        "thumbnail": "https://i.ytimg.com/vi/jnME98ckDbQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJ-E4wJr5k3xfUdXMHEhPEBq8kZw"
+    },
+    {
+        "id": 23,
+        "title": {
+            "runs": [
+                {
+                    "text": "10 JavaScript concepts every Developer SHOULD know"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "10 JavaScript concepts every Developer SHOULD know by ColorCode 13,987 views 4 years ago 4 minutes, 13 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=HHOxjNcpbbc",
+        "thumbnail": "https://i.ytimg.com/vi/HHOxjNcpbbc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHnCKL7WhBWdCjut7VoDIwbullKA"
+    },
+    {
+        "id": 24,
+        "title": {
+            "runs": [
+                {
+                    "text": "10 Coding Tips for beginner Developers"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "10 Coding Tips for beginner Developers by ColorCode 8,010 views 4 years ago 10 minutes, 20 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=-fhLersdU8A",
+        "thumbnail": "https://i.ytimg.com/vi/-fhLersdU8A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADhulXidB7CHuK0S6ucXCr9zyhtA"
+    },
+    {
+        "id": 25,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Text Shadow (in 1 minute)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Text Shadow (in 1 minute) by ColorCode 20,959 views 4 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=0nP67G-ZiWQ",
+        "thumbnail": "https://i.ytimg.com/vi/0nP67G-ZiWQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB85iXbr7Kifq9ai7VdeNXR_oTTgg"
+    },
+    {
+        "id": 26,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Box Shadow (in 1 minute)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Box Shadow (in 1 minute) by ColorCode 37,597 views 4 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=jEuvbVVkcT0",
+        "thumbnail": "https://i.ytimg.com/vi/jEuvbVVkcT0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhy1c6KNtvl07JmeHWeLZROL-THw"
+    },
+    {
+        "id": 27,
+        "title": {
+            "runs": [
+                {
+                    "text": "DARK MODE in CSS (in 1 minute)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "DARK MODE in CSS (in 1 minute) by ColorCode 4,093 views 4 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=BkdjaBnRs84",
+        "thumbnail": "https://i.ytimg.com/vi/BkdjaBnRs84/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzxbnL0whFKPPnZevuz_XPeX0R5g"
+    },
+    {
+        "id": 28,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Opacity - One Minute Coding ⏱"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Opacity - One Minute Coding ⏱ by ColorCode 5,603 views 4 years ago 1 minute, 2 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=QdkgbodF71k",
+        "thumbnail": "https://i.ytimg.com/vi/QdkgbodF71k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5zaD1LeoYwLgodfCIBN3JmVjubQ"
+    },
+    {
+        "id": 29,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Gradient Background - One Minute Coding ⏱"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Gradient Background - One Minute Coding ⏱ by ColorCode 12,584 views 4 years ago 1 minute, 5 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=NINIuzyWZ2c",
+        "thumbnail": "https://i.ytimg.com/vi/NINIuzyWZ2c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLu4kCMSNOrtViJ9kbVpn79oJA8Q"
+    },
+    {
+        "id": 30,
+        "title": {
+            "runs": [
+                {
+                    "text": "Introduction to Algorithms and Data Structures -- Are they NECESSARY?"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Introduction to Algorithms and Data Structures -- Are they NECESSARY? by ColorCode 10,557 views 4 years ago 13 minutes, 57 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=x53QN7_6Grw",
+        "thumbnail": "https://i.ytimg.com/vi/x53QN7_6Grw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIzCWxbcFGKTw6iO9Y7PgbRaQzPA"
+    },
+    {
+        "id": 31,
+        "title": {
+            "runs": [
+                {
+                    "text": "Functional Programming with Scala  |  Peter On Things"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Functional Programming with Scala  |  Peter On Things by ColorCode 1,562 views 4 years ago 1 minute, 54 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=8FOGU7GjuRw",
+        "thumbnail": "https://i.ytimg.com/vi/8FOGU7GjuRw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu8zSG_YZDZq_OcUdyjW9wCCOQcw"
+    },
+    {
+        "id": 32,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Selectors - One Minute Coding"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Selectors - One Minute Coding by ColorCode 1,969 views 5 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=rLZWAGrY6cU",
+        "thumbnail": "https://i.ytimg.com/vi/rLZWAGrY6cU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPePEPOsg9Yrs4qjWsv3GWcrFYsw"
+    },
+    {
+        "id": 33,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Box Model - One Minute Coding"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Box Model - One Minute Coding by ColorCode 2,554 views 5 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=3-hpDA7Ioi4",
+        "thumbnail": "https://i.ytimg.com/vi/3-hpDA7Ioi4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuGs99CSVbW4r0yjaNxxgee6ToEw"
+    },
+    {
+        "id": 34,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Borders - One Minute Coding"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Borders - One Minute Coding by ColorCode 1,738 views 5 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=9aGgFGiEnTY",
+        "thumbnail": "https://i.ytimg.com/vi/9aGgFGiEnTY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4fwZxmbwKPa070F-jVApJA8r6xA"
+    },
+    {
+        "id": 35,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Border Radius - One Minute Coding"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Border Radius - One Minute Coding by ColorCode 2,475 views 5 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=PFl_v4FxBEI",
+        "thumbnail": "https://i.ytimg.com/vi/PFl_v4FxBEI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT6dUzVSDj7TGh3KwUwUbMlcRu6w"
+    },
+    {
+        "id": 36,
+        "title": {
+            "runs": [
+                {
+                    "text": "Code Bootcamp: HTML, CSS, JavaScript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Code Bootcamp: HTML, CSS, JavaScript by ColorCode 1,032 views 5 years ago 1 minute, 6 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=rQ6s-rq42AY",
+        "thumbnail": "https://i.ytimg.com/vi/rQ6s-rq42AY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6ifN8ye6cEQO8WLqnjG1d9mQDxQ"
+    },
+    {
+        "id": 37,
+        "title": {
+            "runs": [
+                {
+                    "text": "JavaScript Variables Tutorial - ES6, var, let, const"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "JavaScript Variables Tutorial - ES6, var, let, const by ColorCode 3,876 views 5 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=N39fYbI6x84",
+        "thumbnail": "https://i.ytimg.com/vi/N39fYbI6x84/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm7Qv7SllpQewRApAvfoWUI8_6Qw"
+    },
+    {
+        "id": 38,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Transitions Tutorial - One Minute Coding"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Transitions Tutorial - One Minute Coding by ColorCode 6,809 views 5 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=xJA4w2MlGoc",
+        "thumbnail": "https://i.ytimg.com/vi/xJA4w2MlGoc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuXqn9NEfgfNjnRB36ZrxPEGRUGQ"
+    },
+    {
+        "id": 39,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Overflow Tutorial - One Minute Coding"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Overflow Tutorial - One Minute Coding by ColorCode 25,775 views 5 years ago 1 minute, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=LMLwvJvnsZE",
+        "thumbnail": "https://i.ytimg.com/vi/LMLwvJvnsZE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt86-OOgzJ_dv17i_6-M-V_2F5vQ"
+    },
+    {
+        "id": 40,
+        "title": {
+            "runs": [
+                {
+                    "text": "7 ways to higher coding salary in 2020"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "7 ways to higher coding salary in 2020 by ColorCode 1,275 views 6 years ago 8 minutes, 30 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=mz6V16pEZLk",
+        "thumbnail": "https://i.ytimg.com/vi/mz6V16pEZLk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6Luvzpbco8nKq8lCoIkiJdrKSXg"
+    },
+    {
+        "id": 41,
+        "title": {
+            "runs": [
+                {
+                    "text": "Full Stack is Bullshit... Why great Full Stack developers don't exist anymore!"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Full Stack is Bullshit... Why great Full Stack developers don't exist anymore! by ColorCode 8,318 views 6 years ago 8 minutes, 10 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=4nXp_ivjczM",
+        "thumbnail": "https://i.ytimg.com/vi/4nXp_ivjczM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaPw1Id4XpTF_zan-QuXNWZ2VY4Q"
+    },
+    {
+        "id": 42,
+        "title": {
+            "runs": [
+                {
+                    "text": "7 Leadership Tips for Developers: How to be a great BOSS"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "7 Leadership Tips for Developers: How to be a great BOSS by ColorCode 1,668 views 6 years ago 6 minutes, 27 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=v0b4rGn-N6Y",
+        "thumbnail": "https://i.ytimg.com/vi/v0b4rGn-N6Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEERTg0aOHkDqllRz_p3pmm-gWgA"
+    },
+    {
+        "id": 43,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Tutorial — Fonts Demo (13/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Tutorial — Fonts Demo (13/13) by ColorCode 1,863 views 7 years ago 6 minutes, 55 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=UvZmawu5XqI",
+        "thumbnail": "https://i.ytimg.com/vi/UvZmawu5XqI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeXoj6pjY3vjp2mJOjS_c2htRM7A"
+    },
+    {
+        "id": 44,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Tutorial — How to use Fonts  (12/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Tutorial — How to use Fonts  (12/13) by ColorCode 3,154 views 7 years ago 4 minutes, 41 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=hFqcbiCIUIg",
+        "thumbnail": "https://i.ytimg.com/vi/hFqcbiCIUIg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXio7IvhrJ31deVkt3hOzamt4fCQ"
+    },
+    {
+        "id": 45,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Tutorial — Box Model Demo (11/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Tutorial — Box Model Demo (11/13) by ColorCode 2,303 views 7 years ago 6 minutes, 48 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=1mQHFJoTBgY",
+        "thumbnail": "https://i.ytimg.com/vi/1mQHFJoTBgY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM_9fNoLjVAYM7Zf8YvlGo2J1_tg"
+    },
+    {
+        "id": 46,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Tutorial — Box Model (10/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Tutorial — Box Model (10/13) by ColorCode 3,631 views 7 years ago 4 minutes, 23 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=mRVJkPfq7YI",
+        "thumbnail": "https://i.ytimg.com/vi/mRVJkPfq7YI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmD8rppDsOBCpgEQ2vEg16yoEQWA"
+    },
+    {
+        "id": 47,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Tutorial - Sizes, Absolute and Relative DEMO (9/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Tutorial - Sizes, Absolute and Relative DEMO (9/13) by ColorCode 3,617 views 7 years ago 9 minutes, 28 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=AxPygcOatF8",
+        "thumbnail": "https://i.ytimg.com/vi/AxPygcOatF8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhnDrhTGXTdRMLMFmOGK3DwilzFQ"
+    },
+    {
+        "id": 48,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Tutorial — EM & REM, Relative Sizes (8/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Tutorial — EM & REM, Relative Sizes (8/13) by ColorCode 8,749 views 7 years ago 5 minutes, 15 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=N4Mt32GkBSI",
+        "thumbnail": "https://i.ytimg.com/vi/N4Mt32GkBSI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9AsGPtSp-3MWnNL7tJv7qZ6cgsQ"
+    },
+    {
+        "id": 49,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Tutorial — Relative Sizes, Percentage % (7/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Tutorial — Relative Sizes, Percentage % (7/13) by ColorCode 19,717 views 7 years ago 2 minutes, 35 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=HdSm-aDTes8",
+        "thumbnail": "https://i.ytimg.com/vi/HdSm-aDTes8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDydzdNmu8EDSeM3r6OZc_8MDgohw"
+    },
+    {
+        "id": 50,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Tutorial — Absolute Sizes, px, pt (6/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Tutorial — Absolute Sizes, px, pt (6/13) by ColorCode 14,228 views 7 years ago 2 minutes, 9 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=RvW5rXuFDGU",
+        "thumbnail": "https://i.ytimg.com/vi/RvW5rXuFDGU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEG6K5f_MxrZ_G-L1u6Rt2Uv4L8Q"
+    },
+    {
+        "id": 51,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Tutorial — Colors DEMO (5/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Tutorial — Colors DEMO (5/13) by ColorCode 3,057 views 7 years ago 7 minutes, 26 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=e81O96Jjr6g",
+        "thumbnail": "https://i.ytimg.com/vi/e81O96Jjr6g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3c6LWXfJSOGthDBxM4-7_FSGm4A"
+    },
+    {
+        "id": 52,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Tutorial — Colors, Hex, RGB, RGBA, Predefined Colors (4/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Tutorial — Colors, Hex, RGB, RGBA, Predefined Colors (4/13) by ColorCode 14,733 views 7 years ago 4 minutes, 24 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=HxztHgRN8I4",
+        "thumbnail": "https://i.ytimg.com/vi/HxztHgRN8I4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl2uQSPJ83uYoh0eK8exv-vw8BCA"
+    },
+    {
+        "id": 53,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Tutorial — Selectors, Element, Class and ID (3/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Tutorial — Selectors, Element, Class and ID (3/13) by ColorCode 54,110 views 7 years ago 6 minutes, 35 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=1h5StQJ8hww",
+        "thumbnail": "https://i.ytimg.com/vi/1h5StQJ8hww/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBB2Jom9OH2JpCSLFIe71pJq9GYJQ"
+    },
+    {
+        "id": 54,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Tutorial — 3 ways to write CSS in an HTML page (2/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Tutorial — 3 ways to write CSS in an HTML page (2/13) by ColorCode 6,176 views 7 years ago 6 minutes, 11 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Z95mEs1yzy8",
+        "thumbnail": "https://i.ytimg.com/vi/Z95mEs1yzy8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWr16vz94NUQcQay3n9BvQNASCtw"
+    },
+    {
+        "id": 55,
+        "title": {
+            "runs": [
+                {
+                    "text": "CSS Crash Course Tutorial (1/13)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "CSS Crash Course Tutorial (1/13) by ColorCode 8,456 views 7 years ago 2 minutes, 56 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=WMxw8LgQYV4",
+        "thumbnail": "https://i.ytimg.com/vi/WMxw8LgQYV4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQK199lkinp69smF4lvv-CZKkaeA"
+    },
+    {
+        "id": 56,
+        "title": {
+            "runs": [
+                {
+                    "text": "HTML Tutorial — Class, ID, selectors, identifiers (11/11)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "HTML Tutorial — Class, ID, selectors, identifiers (11/11) by ColorCode 2,582 views 7 years ago 5 minutes, 22 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=qc9jgsClEJs",
+        "thumbnail": "https://i.ytimg.com/vi/qc9jgsClEJs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJSKMvR9PBQKbcp2MHK1hfTRLtDw"
+    },
+    {
+        "id": 57,
+        "title": {
+            "runs": [
+                {
+                    "text": "HTML Tutorial — HEAD tag (10/11)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "HTML Tutorial — HEAD tag (10/11) by ColorCode 1,784 views 7 years ago 2 minutes, 38 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=C_mTN6pYvnI",
+        "thumbnail": "https://i.ytimg.com/vi/C_mTN6pYvnI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNV4z99EiT9R7ezy2Or207MSd6Eg"
+    },
+    {
+        "id": 58,
+        "title": {
+            "runs": [
+                {
+                    "text": "HTML Tutorial — Useful Things: br, hr, input type, em, strong, img alt (9/11)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "HTML Tutorial — Useful Things: br, hr, input type, em, strong, img alt (9/11) by ColorCode 1,860 views 7 years ago 3 minutes, 23 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=H-scFMQk6Dc",
+        "thumbnail": "https://i.ytimg.com/vi/H-scFMQk6Dc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLlFJrvh1BIscqvV1A-ExOFrNrIg"
+    },
+    {
+        "id": 59,
+        "title": {
+            "runs": [
+                {
+                    "text": "HTML Tutorial — Semantics Demo (8/11)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "HTML Tutorial — Semantics Demo (8/11) by ColorCode 1,690 views 7 years ago 3 minutes, 1 second"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=OKdH9b2CYGM",
+        "thumbnail": "https://i.ytimg.com/vi/OKdH9b2CYGM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAHXBX7SyCpIso3WzqTsgvw1Ge3A"
+    },
+    {
+        "id": 60,
+        "title": {
+            "runs": [
+                {
+                    "text": "HTML Tutorial — Semantics (7/11)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "HTML Tutorial — Semantics (7/11) by ColorCode 2,205 views 7 years ago 4 minutes, 15 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=1lX6TDY3eLw",
+        "thumbnail": "https://i.ytimg.com/vi/1lX6TDY3eLw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsSIgAjx3IHNNUTD7XAl3It4_DQQ"
+    },
+    {
+        "id": 61,
+        "title": {
+            "runs": [
+                {
+                    "text": "HTML Tutorial — Elements and DOM demo (6/11)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "HTML Tutorial — Elements and DOM demo (6/11) by ColorCode 1,935 views 7 years ago 6 minutes, 31 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=pvCKSHPbzRg",
+        "thumbnail": "https://i.ytimg.com/vi/pvCKSHPbzRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_jDno-DmSkqNfnqgShE6UyhDkfA"
+    },
+    {
+        "id": 62,
+        "title": {
+            "runs": [
+                {
+                    "text": "HTML Tutorial — Attributes (5/11)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "HTML Tutorial — Attributes (5/11) by ColorCode 2,746 views 7 years ago 3 minutes, 29 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=1zaXEHcF1Pw",
+        "thumbnail": "https://i.ytimg.com/vi/1zaXEHcF1Pw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgmUzRKx8-Y0Y8m_anaTpFXf8-xQ"
+    },
+    {
+        "id": 63,
+        "title": {
+            "runs": [
+                {
+                    "text": "HTML Tutorial — Display Types (4/11)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "HTML Tutorial — Display Types (4/11) by ColorCode 2,968 views 7 years ago 4 minutes, 26 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=F2sJR1ViJsQ",
+        "thumbnail": "https://i.ytimg.com/vi/F2sJR1ViJsQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy-KUp4ngPiJXB9dadj3niVVujlg"
+    },
+    {
+        "id": 64,
+        "title": {
+            "runs": [
+                {
+                    "text": "HTML Tutorial — The DOM (3/11)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "HTML Tutorial — The DOM (3/11) by ColorCode 3,535 views 7 years ago 6 minutes, 10 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Oq6uDIOWIjw",
+        "thumbnail": "https://i.ytimg.com/vi/Oq6uDIOWIjw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7afNFqlRuyUddAtHYdL837zqYjA"
+    },
+    {
+        "id": 65,
+        "title": {
+            "runs": [
+                {
+                    "text": "HTML Tutorial — Elements (2/11)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "HTML Tutorial — Elements (2/11) by ColorCode 4,077 views 7 years ago 4 minutes, 44 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=87CLw4t2lBs",
+        "thumbnail": "https://i.ytimg.com/vi/87CLw4t2lBs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG2KzkjagBDrjMBCwjlVCFucej2A"
+    },
+    {
+        "id": 66,
+        "title": {
+            "runs": [
+                {
+                    "text": "HTML Crash Course Tutorial (1/11)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "HTML Crash Course Tutorial (1/11) by ColorCode 5,643 views 7 years ago 3 minutes, 27 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=ErynNtz2PEg",
+        "thumbnail": "https://i.ytimg.com/vi/ErynNtz2PEg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4H3ZuYlXYqU1u0Rvjqd9tlZS3dg"
+    },
+    {
+        "id": 67,
+        "title": {
+            "runs": [
+                {
+                    "text": "How much money programmers make?"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "How much money programmers make? by ColorCode 75,050 views 7 years ago 5 minutes, 32 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=MNo9kfEkEDE",
+        "thumbnail": "https://i.ytimg.com/vi/MNo9kfEkEDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1EPAELB3WmDxPBDBIWtzVuOpVww"
+    },
+    {
+        "id": 68,
+        "title": {
+            "runs": [
+                {
+                    "text": "Who is a Front end Developer? — Modern web development explained."
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Who is a Front end Developer? — Modern web development explained. by ColorCode 2,044 views 7 years ago 2 minutes, 37 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=IXU-1P65cts",
+        "thumbnail": "https://i.ytimg.com/vi/IXU-1P65cts/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBuRmx6KSXmUtBSSgzSbXe3Y26oA"
+    },
+    {
+        "id": 69,
+        "title": {
+            "runs": [
+                {
+                    "text": "Can YOU become a Coder? YES, here is why!"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Can YOU become a Coder? YES, here is why! by ColorCode 5,374 views 7 years ago 3 minutes, 50 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=aZy4l_AHphI",
+        "thumbnail": "https://i.ytimg.com/vi/aZy4l_AHphI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgx7yh1hnqpZjbd2e6VltW3l32XQ"
+    },
+    {
+        "id": 70,
+        "title": {
+            "runs": [
+                {
+                    "text": "What is an IDE? — Coding for Beginners"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "What is an IDE? — Coding for Beginners by ColorCode 30,301 views 7 years ago 1 minute, 20 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Whps_IeaetM",
+        "thumbnail": "https://i.ytimg.com/vi/Whps_IeaetM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpv5uAjAo_uyCQQTRYlIYBa7kAlQ"
+    },
+    {
+        "id": 71,
+        "title": {
+            "runs": [
+                {
+                    "text": "What is HTML / CSS / JavaScript? (Web Development in 3 minutes)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "What is HTML / CSS / JavaScript? (Web Development in 3 minutes) by ColorCode 7,856 views 7 years ago 1 minute, 53 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=UQEkKt-OyyU",
+        "thumbnail": "https://i.ytimg.com/vi/UQEkKt-OyyU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk8l5FSyFY-tQP879978-iXYFI6g"
+    },
+    {
+        "id": 72,
+        "title": {
+            "runs": [
+                {
+                    "text": "What is Programming/Coding? — Modern Web Development Explained"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "What is Programming/Coding? — Modern Web Development Explained by ColorCode 4,238 views 7 years ago 3 minutes, 37 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Q1MOFO8dbK8",
+        "thumbnail": "https://i.ytimg.com/vi/Q1MOFO8dbK8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa3NjWJxbBuhzMpJXOLP_MTVBo6Q"
+    },
+    {
+        "id": 73,
+        "title": {
+            "runs": [
+                {
+                    "text": "Types of programming languages — Coding For Beginners"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Types of programming languages — Coding For Beginners by ColorCode 6,007 views 7 years ago 2 minutes, 5 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=DRElO5ddV50",
+        "thumbnail": "https://i.ytimg.com/vi/DRElO5ddV50/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiIk2RHUh-df28JT_htsHDVuhRMA"
+    },
+    {
+        "id": 74,
+        "title": {
+            "runs": [
+                {
+                    "text": "What is Git and Github? Source Control —Coding For Beginners"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "What is Git and Github? Source Control —Coding For Beginners by ColorCode 3,677 views 7 years ago 1 minute, 50 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=3bchX_7ANQc",
+        "thumbnail": "https://i.ytimg.com/vi/3bchX_7ANQc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrV13twV2lT3d6Hvs_JNrrxhmdrg"
+    },
+    {
+        "id": 75,
+        "title": {
+            "runs": [
+                {
+                    "text": "Programming in 1 Day! -- Learn to code TODAY."
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Programming in 1 Day! -- Learn to code TODAY. by ColorCode 3,323 views 7 years ago 1 minute, 21 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=nauieztEO4E",
+        "thumbnail": "https://i.ytimg.com/vi/nauieztEO4E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhzkX3nDCw0rNq_eDTSAKaclpJlg"
+    },
+    {
+        "id": 76,
+        "title": {
+            "runs": [
+                {
+                    "text": "Coding for Beginners  — Programming is for EVERYBODY!... Introducing ColorCode"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Coding for Beginners  — Programming is for EVERYBODY!... Introducing ColorCode by ColorCode 2,947 views 8 years ago 2 minutes, 44 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=l75WTbtHNTM",
+        "thumbnail": "https://i.ytimg.com/vi/l75WTbtHNTM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkkZYVDL45nucqJuoB3pTnGqxqHA"
+    }
+]
