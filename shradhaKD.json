@@ -1,0 +1,903 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "runs": [
+                {
+                    "text": "L76. Implement LRU Cache | Linked List"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "L76. Implement LRU Cache | Linked List by Shradha Khapra 2,454 views 1 day ago 35 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=GsY6y0iPaHw",
+        "thumbnail": "https://i.ytimg.com/vi/GsY6y0iPaHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABujKE8gPJTQkyojqnyGaIfY-Tpg"
+    },
+    {
+        "id": 2,
+        "title": {
+            "runs": [
+                {
+                    "text": "L75. The Celebrity Problem | Stack & Queue"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "L75. The Celebrity Problem | Stack & Queue by Shradha Khapra 3,361 views 2 days ago 15 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=OZPmEA_8FM8",
+        "thumbnail": "https://i.ytimg.com/vi/OZPmEA_8FM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM1JRziP5Xve9u-Nn_blteDXYfEA"
+    },
+    {
+        "id": 3,
+        "title": {
+            "runs": [
+                {
+                    "text": "L74. Trapping Rainwater Problem | Optimal Solution & Code"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "L74. Trapping Rainwater Problem | Optimal Solution & Code by Shradha Khapra 5,041 views 5 days ago 30 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=UHHp8USwx4M",
+        "thumbnail": "https://i.ytimg.com/vi/UHHp8USwx4M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAX_TFOrCBn2ASWgm4eBErwuz6Jpw"
+    },
+    {
+        "id": 4,
+        "title": {
+            "runs": [
+                {
+                    "text": "L73. Next Greater Element - II | Stack & Queue"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "L73. Next Greater Element - II | Stack & Queue by Shradha Khapra 6,132 views 13 days ago 20 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=If--3pm9K3U",
+        "thumbnail": "https://i.ytimg.com/vi/If--3pm9K3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBS7tzXmOh7YezelIbOgMOPVFeJPA"
+    },
+    {
+        "id": 5,
+        "title": {
+            "runs": [
+                {
+                    "text": "Largest Rectangle in Histogram | Best Solution & Code"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Largest Rectangle in Histogram | Best Solution & Code by Shradha Khapra 4,818 views 2 weeks ago 32 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=ysy1o-QEj3k",
+        "thumbnail": "https://i.ytimg.com/vi/ysy1o-QEj3k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATLZ6QxiL56FW9ntuUss6gPuxTLg"
+    },
+    {
+        "id": 6,
+        "title": {
+            "runs": [
+                {
+                    "text": "Design a Min Stack | Optimal Solution & Code"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Design a Min Stack | Optimal Solution & Code by Shradha Khapra 5,375 views 2 weeks ago 24 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=wHDm-N2m2XY",
+        "thumbnail": "https://i.ytimg.com/vi/wHDm-N2m2XY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6g8j4tKtobN6H21khzNzzqL5JDQ"
+    },
+    {
+        "id": 7,
+        "title": {
+            "runs": [
+                {
+                    "text": "Previous Smaller Element | Optimal Solution & Code"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Previous Smaller Element | Optimal Solution & Code by Shradha Khapra 4,046 views 2 weeks ago 9 minutes, 24 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=WnjUfBn9nZM",
+        "thumbnail": "https://i.ytimg.com/vi/WnjUfBn9nZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb10Pdi_A4ws35yCeQAz96mFDUjQ"
+    },
+    {
+        "id": 8,
+        "title": {
+            "runs": [
+                {
+                    "text": "Next Greater Element | Optimal Solution & Code"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Next Greater Element | Optimal Solution & Code by Shradha Khapra 5,645 views 3 weeks ago 23 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=NKbExYwvjb0",
+        "thumbnail": "https://i.ytimg.com/vi/NKbExYwvjb0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAXKqKSUvEavrIZ159rB5cdIkkgw"
+    },
+    {
+        "id": 9,
+        "title": {
+            "runs": [
+                {
+                    "text": "Stock Span Problem | Optimal Solution"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Stock Span Problem | Optimal Solution by Shradha Khapra 7,479 views 3 weeks ago 26 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=01vBuZyMfqk",
+        "thumbnail": "https://i.ytimg.com/vi/01vBuZyMfqk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ7Ck3CA2v9SEnxG0hOsDsnZkbuA"
+    },
+    {
+        "id": 10,
+        "title": {
+            "runs": [
+                {
+                    "text": "Valid Parentheses | Stack | Lecture 67"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Valid Parentheses | Stack | Lecture 67 by Shradha Khapra 7,552 views 3 weeks ago 16 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=NlHupEeDXzY",
+        "thumbnail": "https://i.ytimg.com/vi/NlHupEeDXzY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzAUbFrDP80vb_42GiUeuS2QCwlg"
+    },
+    {
+        "id": 11,
+        "title": {
+            "runs": [
+                {
+                    "text": "Introduction to STACKS | Data Structures & Algorithms | Lecture 66"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Introduction to STACKS | Data Structures & Algorithms | Lecture 66 by Shradha Khapra 10,443 views 3 weeks ago 22 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=0X-fV-1ir9c",
+        "thumbnail": "https://i.ytimg.com/vi/0X-fV-1ir9c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCms9JR-ipIc_gkkDso7BdriuQzKg"
+    },
+    {
+        "id": 12,
+        "title": {
+            "runs": [
+                {
+                    "text": "Swap Nodes in Pairs | Linked List"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Swap Nodes in Pairs | Linked List by Shradha Khapra 8,742 views 1 month ago 20 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=wwbTMNVlFHQ",
+        "thumbnail": "https://i.ytimg.com/vi/wwbTMNVlFHQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBrb22YLYGmywZivpoCINYjPsPhw"
+    },
+    {
+        "id": 13,
+        "title": {
+            "runs": [
+                {
+                    "text": "Reverse Nodes in K-Group | Linked List"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Reverse Nodes in K-Group | Linked List by Shradha Khapra 6,638 views 1 month ago 20 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=-swgIiMIlJo",
+        "thumbnail": "https://i.ytimg.com/vi/-swgIiMIlJo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlY6j6kQHWvVYR1o2vTKumTygvXA"
+    },
+    {
+        "id": 14,
+        "title": {
+            "runs": [
+                {
+                    "text": "Flatten a Doubly Linked List | Leetcode 430 | DSA Series by @shradhaKD"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Flatten a Doubly Linked List | Leetcode 430 | DSA Series by @shradhaKD by Shradha Khapra 6,833 views 1 month ago 24 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=I8b0rff5F9M",
+        "thumbnail": "https://i.ytimg.com/vi/I8b0rff5F9M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgR6LUsXRLSKaRv31EjVpl5nEv5A"
+    },
+    {
+        "id": 15,
+        "title": {
+            "runs": [
+                {
+                    "text": "Circular Linked List in Data Structures"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Circular Linked List in Data Structures by Shradha Khapra 14,220 views 1 month ago 33 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=e6lZY5Yha8U",
+        "thumbnail": "https://i.ytimg.com/vi/e6lZY5Yha8U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD16Us45osYhCk1_jV9dTGIBlVnSg"
+    },
+    {
+        "id": 16,
+        "title": {
+            "runs": [
+                {
+                    "text": "Doubly Linked List Tutorial"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Doubly Linked List Tutorial by Shradha Khapra 12,804 views 1 month ago 32 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=bO5DasTsaRQ",
+        "thumbnail": "https://i.ytimg.com/vi/bO5DasTsaRQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARKd75PeyK11ylXCskeIBnu9WqRQ"
+    },
+    {
+        "id": 17,
+        "title": {
+            "runs": [
+                {
+                    "text": "Copy List with Random Pointer | DSA Series by @shradhaKD"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Copy List with Random Pointer | DSA Series by @shradhaKD by Shradha Khapra 9,920 views 1 month ago 20 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=8ze7Zopdsaw",
+        "thumbnail": "https://i.ytimg.com/vi/8ze7Zopdsaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB57y7UkolOLLDIwevV-SEbMdzP9w"
+    },
+    {
+        "id": 18,
+        "title": {
+            "runs": [
+                {
+                    "text": "Merge Two Sorted Lists | DSA Series by @shradhaKD"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Merge Two Sorted Lists | DSA Series by @shradhaKD by Shradha Khapra 9,800 views 1 month ago 12 minutes, 41 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=f8RPIb-0DDE",
+        "thumbnail": "https://i.ytimg.com/vi/f8RPIb-0DDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0OKqltuZOPgtoOgrG3ouaVUU2PQ"
+    },
+    {
+        "id": 19,
+        "title": {
+            "runs": [
+                {
+                    "text": "Detect & Remove Cycle in Linked List | DSA Series by @shradhaKD"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Detect & Remove Cycle in Linked List | DSA Series by @shradhaKD by Shradha Khapra 13,145 views 1 month ago 30 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=-1E8ZMS0gSs",
+        "thumbnail": "https://i.ytimg.com/vi/-1E8ZMS0gSs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxTM4hZ0d7qkz73G36vq28Tqu-fw"
+    },
+    {
+        "id": 20,
+        "title": {
+            "runs": [
+                {
+                    "text": "Middle of a Linked List | DSA Series by @shradhaKD"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Middle of a Linked List | DSA Series by @shradhaKD by Shradha Khapra 10,324 views 1 month ago 10 minutes, 32 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=nzaHG0dme4g",
+        "thumbnail": "https://i.ytimg.com/vi/nzaHG0dme4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCDeamOsIRvKp2pgfEgXrJpvXdew"
+    },
+    {
+        "id": 21,
+        "title": {
+            "runs": [
+                {
+                    "text": "Reverse a Linked List | DSA Series by @shradhaKD"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Reverse a Linked List | DSA Series by @shradhaKD by Shradha Khapra 14,775 views 1 month ago 10 minutes, 29 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=R-CKBYnOv1U",
+        "thumbnail": "https://i.ytimg.com/vi/R-CKBYnOv1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANwUVrNKoWHfK9tewBVH5DpzfCeQ"
+    },
+    {
+        "id": 22,
+        "title": {
+            "runs": [
+                {
+                    "text": "Introduction to Linked List | Data Structures & Algorithms"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Introduction to Linked List | Data Structures & Algorithms by Shradha Khapra 66,964 views 1 month ago 50 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=LyuuqCVkP5I",
+        "thumbnail": "https://i.ytimg.com/vi/LyuuqCVkP5I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw4q4OuvN08vJ02yFptOeHKz-73A"
+    },
+    {
+        "id": 23,
+        "title": {
+            "runs": [
+                {
+                    "text": "KNIGHTS TOUR Problem - Backtracking | Leetcode 2596"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "KNIGHTS TOUR Problem - Backtracking | Leetcode 2596 by Shradha Khapra 14,597 views 2 months ago 22 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Sp1jzttFVdE",
+        "thumbnail": "https://i.ytimg.com/vi/Sp1jzttFVdE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYk5vMWV82ix1olJXreV-a6wGbQ"
+    },
+    {
+        "id": 24,
+        "title": {
+            "runs": [
+                {
+                    "text": "Count Inversions Problem | Brute and Optimal"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Count Inversions Problem | Brute and Optimal by Shradha Khapra 13,248 views 2 months ago 24 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=ynnWDBTdVi0",
+        "thumbnail": "https://i.ytimg.com/vi/ynnWDBTdVi0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoAzWRQ7up1EJpj1fpIxepbtLEiw"
+    },
+    {
+        "id": 25,
+        "title": {
+            "runs": [
+                {
+                    "text": "Quick Sort Algorithm - Lecture 51 of Complete DSA Placement Series"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Quick Sort Algorithm - Lecture 51 of Complete DSA Placement Series by Shradha Khapra 39,227 views 2 months ago 26 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=8MNB0Mba_Dc",
+        "thumbnail": "https://i.ytimg.com/vi/8MNB0Mba_Dc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF2_1FQrlKtVfO2y5bDCFW_6ZQ2w"
+    },
+    {
+        "id": 26,
+        "title": {
+            "runs": [
+                {
+                    "text": "How to setup C++ compiler on Mac ? | Software Installation for Mac users"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "How to setup C++ compiler on Mac ? | Software Installation for Mac users by Shradha Khapra 57,355 views 5 months ago 1 minute, 40 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=varXreLWPRo",
+        "thumbnail": "https://i.ytimg.com/vi/varXreLWPRo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgntmRZcS2qTcmhaJEDDRL0oCOsw"
+    },
+    {
+        "id": 27,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 9 : OOPS Part 2 | Object Oriented Programming | Python Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 9 : OOPS Part 2 | Object Oriented Programming | Python Full Course by Shradha Khapra 629,568 views 1 year ago 1 hour, 9 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=bAwmZVJeO5s",
+        "thumbnail": "https://i.ytimg.com/vi/bAwmZVJeO5s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxIAaXFZmaiMO_ZSa9uHMMNtiRUA"
+    },
+    {
+        "id": 28,
+        "title": {
+            "runs": [
+                {
+                    "text": "Which one is better for YOU ? Delta 4.0 vs Sigma 2.0 | Starting 15th Feb | QnA Session"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Which one is better for YOU ? Delta 4.0 vs Sigma 2.0 | Starting 15th Feb | QnA Session by Shradha Khapra 29,648 views 1 year ago 6 minutes, 43 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=TBaWwg0X_YA",
+        "thumbnail": "https://i.ytimg.com/vi/TBaWwg0X_YA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzFswskuOH9r3eIr5oCrl_uzfmEQ"
+    },
+    {
+        "id": 29,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 8 : OOPS in Python | Object Oriented Programming | Classes & Objects | Python Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 8 : OOPS in Python | Object Oriented Programming | Classes & Objects | Python Full Course by Shradha Khapra 959,283 views 1 year ago 56 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=HeW-D6KpDwY",
+        "thumbnail": "https://i.ytimg.com/vi/HeW-D6KpDwY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHMzPxMLU7sKgHCkDamOYjvUGYuQ"
+    },
+    {
+        "id": 30,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 7 : File Input/Output in Python"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 7 : File Input/Output in Python by Shradha Khapra 600,711 views 1 year ago 50 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=jU0cndZziO0",
+        "thumbnail": "https://i.ytimg.com/vi/jU0cndZziO0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCta6MRLWuQcDEigOi_t-HWm050hQ"
+    },
+    {
+        "id": 31,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 6 : Functions & Recursion in Python | Python Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 6 : Functions & Recursion in Python | Python Full Course by Shradha Khapra 892,572 views 1 year ago 1 hour, 1 minute"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=OvTH-7ESoRA",
+        "thumbnail": "https://i.ytimg.com/vi/OvTH-7ESoRA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc0kCEDXXFMeVMTdvl9h9lD6UIlw"
+    },
+    {
+        "id": 32,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 5 : Loops in Python | While & For Loops | Python Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 5 : Loops in Python | While & For Loops | Python Full Course by Shradha Khapra 1,172,155 views 1 year ago 1 hour, 3 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=S73thl0AyFU",
+        "thumbnail": "https://i.ytimg.com/vi/S73thl0AyFU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaqtkY92I5AOFknotmQIFE67UP5A"
+    },
+    {
+        "id": 33,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 4 : Dictionary & Set in Python | Python Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 4 : Dictionary & Set in Python | Python Full Course by Shradha Khapra 1,032,508 views 1 year ago 54 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=078tYSD7K8E",
+        "thumbnail": "https://i.ytimg.com/vi/078tYSD7K8E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnvj7t7LN2pfnPQTvuIWYzpbrl9Q"
+    },
+    {
+        "id": 34,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 3 : List & Tuple in Python | Python Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 3 : List & Tuple in Python | Python Full Course by Shradha Khapra 1,239,641 views 1 year ago 41 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=qVyvmzFxF_o",
+        "thumbnail": "https://i.ytimg.com/vi/qVyvmzFxF_o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgfrXfe97OjaAgxNCfuB3lI_OB3g"
+    },
+    {
+        "id": 35,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 2 : Strings & Conditional Statements | Python Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 2 : Strings & Conditional Statements | Python Full Course by Shradha Khapra 1,899,056 views 1 year ago 55 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=lIId8IDP6TU",
+        "thumbnail": "https://i.ytimg.com/vi/lIId8IDP6TU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3o6682QMw3oEOE4u1-VxkN4paOQ"
+    },
+    {
+        "id": 36,
+        "title": {
+            "runs": [
+                {
+                    "text": "Python Full Course❤️ | Variables & Data Types | Lecture 1"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Python Full Course❤️ | Variables & Data Types | Lecture 1 by Shradha Khapra 5,846,587 views 1 year ago 1 hour, 22 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=t2_Q2BRzeEE",
+        "thumbnail": "https://i.ytimg.com/vi/t2_Q2BRzeEE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc_DnWO2bLzm9FUvNhf3wX1Qs-YA"
+    },
+    {
+        "id": 37,
+        "title": {
+            "runs": [
+                {
+                    "text": "Data Structures & Algorithms - New Placement Batch for 2024 | Alpha Plus 2.0 ❤️"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Data Structures & Algorithms - New Placement Batch for 2024 | Alpha Plus 2.0 ❤️ by Shradha Khapra 56,386 views 1 year ago 5 minutes, 29 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=8QluwlrVQtY",
+        "thumbnail": "https://i.ytimg.com/vi/8QluwlrVQtY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2pyq60Q-Qz_55btp4RYgCloa7Tg"
+    },
+    {
+        "id": 38,
+        "title": {
+            "runs": [
+                {
+                    "text": "Last Lecture : Fetch API with Project | JavaScript Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Last Lecture : Fetch API with Project | JavaScript Full Course by Shradha Khapra 776,678 views 1 year ago 1 hour, 17 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=CyGodpqcid4",
+        "thumbnail": "https://i.ytimg.com/vi/CyGodpqcid4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH1EMKwr3pCDteAhXmYBtaAA2-2Q"
+    },
+    {
+        "id": 39,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 12 : Callbacks, Promises & Async Await | JavaScript Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 12 : Callbacks, Promises & Async Await | JavaScript Full Course by Shradha Khapra 842,772 views 1 year ago 1 hour, 23 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=d3jXofmQm44",
+        "thumbnail": "https://i.ytimg.com/vi/d3jXofmQm44/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhL0mJXFum-M761VMHSoSYxw7UXw"
+    },
+    {
+        "id": 40,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 11 : Classes & Objects | JavaScript Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 11 : Classes & Objects | JavaScript Full Course by Shradha Khapra 598,676 views 1 year ago 1 hour"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=N-O4w6PynGY",
+        "thumbnail": "https://i.ytimg.com/vi/N-O4w6PynGY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDFxft_k0UhszppYEfj5WnJQ5pTg"
+    },
+    {
+        "id": 41,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 10 : MiniProject - Stone, Paper & Scissors Game | JavaScript Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 10 : MiniProject - Stone, Paper & Scissors Game | JavaScript Full Course by Shradha Khapra 434,305 views 1 year ago 47 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=_V33HCZWLDQ",
+        "thumbnail": "https://i.ytimg.com/vi/_V33HCZWLDQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiuyUhRlG0smpk9CFVF29ppO9f6A"
+    },
+    {
+        "id": 42,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 9 : Tic Tac Toe Game in JavaScript | JS Project | JavaScript Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 9 : Tic Tac Toe Game in JavaScript | JS Project | JavaScript Full Course by Shradha Khapra 865,374 views 1 year ago 53 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=SqrppLEljkY",
+        "thumbnail": "https://i.ytimg.com/vi/SqrppLEljkY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5C4eOee7KofFjY-2fIQ1wyum2YQ"
+    },
+    {
+        "id": 43,
+        "title": {
+            "runs": [
+                {
+                    "text": "Imp Update : JavaScript YouTube Course | Shradha Ma'am"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Imp Update : JavaScript YouTube Course | Shradha Ma'am by Shradha Khapra 295,898 views 1 year ago 1 minute, 8 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=3rlEe1sP6N4",
+        "thumbnail": "https://i.ytimg.com/vi/3rlEe1sP6N4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbcvj3cM9hUCmNsJkNUg_lX8VDCg"
+    },
+    {
+        "id": 44,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 8 : Events in JavaScript | JavaScript Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 8 : Events in JavaScript | JavaScript Full Course by Shradha Khapra 683,586 views 1 year ago 33 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=_i-uLJAh79U",
+        "thumbnail": "https://i.ytimg.com/vi/_i-uLJAh79U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrWLil2p77y9s_QgsKql1LDoemlg"
+    },
+    {
+        "id": 45,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 7 : DOM (Part 2) | Document Object Model | JavaScript Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 7 : DOM (Part 2) | Document Object Model | JavaScript Full Course by Shradha Khapra 624,721 views 1 year ago 27 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=fXAGTOZ25H8",
+        "thumbnail": "https://i.ytimg.com/vi/fXAGTOZ25H8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdUDFR6hW9FSOJGHp6fhLWNlIV4A"
+    },
+    {
+        "id": 46,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 6 : DOM - Document Object Model | JavaScript Full Course | Part 1"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 6 : DOM - Document Object Model | JavaScript Full Course | Part 1 by Shradha Khapra 1,206,751 views 1 year ago 1 hour, 22 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=7zcXPCt8Ck0",
+        "thumbnail": "https://i.ytimg.com/vi/7zcXPCt8Ck0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_t8IGiRKbZqIHNdijVBlaT8eYdA"
+    },
+    {
+        "id": 47,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 5: Functions & Methods | JavaScript Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 5: Functions & Methods | JavaScript Full Course by Shradha Khapra 1,149,459 views 1 year ago 1 hour, 9 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=P0XMXqDGttU",
+        "thumbnail": "https://i.ytimg.com/vi/P0XMXqDGttU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3VIz5-jUrPpbijeh6elw0kFmJQQ"
+    },
+    {
+        "id": 48,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 4: Arrays | JavaScript Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 4: Arrays | JavaScript Full Course by Shradha Khapra 1,071,044 views 1 year ago 1 hour"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=gFWhbjzowrM",
+        "thumbnail": "https://i.ytimg.com/vi/gFWhbjzowrM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBwvwlYQ91JjUMpaA4T_16Vaxe3Q"
+    },
+    {
+        "id": 49,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 3: Loops and Strings | JavaScript Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 3: Loops and Strings | JavaScript Full Course by Shradha Khapra 1,458,183 views 1 year ago 1 hour, 21 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=UmRtFFSDSFo",
+        "thumbnail": "https://i.ytimg.com/vi/UmRtFFSDSFo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2nQ-lN-tlzObOzEiYvHIOa4ozvw"
+    },
+    {
+        "id": 50,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lecture 2 : Operators and Conditional Statements | JavaScript Full Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lecture 2 : Operators and Conditional Statements | JavaScript Full Course by Shradha Khapra 1,634,067 views 1 year ago 1 hour, 16 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Zg4-uSjxosE",
+        "thumbnail": "https://i.ytimg.com/vi/Zg4-uSjxosE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSk9gkhHvcjLRjrHExM4UZiTEzzQ"
+    },
+    {
+        "id": 51,
+        "title": {
+            "runs": [
+                {
+                    "text": "JavaScript Full Course ❤️ | Variables & Data Types | Lecture 1"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "JavaScript Full Course ❤️ | Variables & Data Types | Lecture 1 by Shradha Khapra 4,491,989 views 1 year ago 1 hour, 21 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=ajdRvxDWH4w",
+        "thumbnail": "https://i.ytimg.com/vi/ajdRvxDWH4w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2wU7knQDiBIWbJDYJThGchN4_DQ"
+    },
+    {
+        "id": 52,
+        "title": {
+            "runs": [
+                {
+                    "text": "Open Seminar at IIT Indore by Shradha Khapra | Apna College"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Open Seminar at IIT Indore by Shradha Khapra | Apna College by Shradha Khapra 411,036 views 1 year ago 37 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=FQp7iI9vjl8",
+        "thumbnail": "https://i.ytimg.com/vi/FQp7iI9vjl8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdSaKBE9K_np16I3NowzhpoEKHSg"
+    },
+    {
+        "id": 53,
+        "title": {
+            "runs": [
+                {
+                    "text": "18 years of my Life - My Village❤️ | Shradha Khapra"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "18 years of my Life - My Village❤️ | Shradha Khapra by Shradha Khapra 1,328,471 views 1 year ago 17 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=56SOLhXVS48",
+        "thumbnail": "https://i.ytimg.com/vi/56SOLhXVS48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFdNo0IE97EIf7EKts-JxsKXk4qA"
+    }
+]
